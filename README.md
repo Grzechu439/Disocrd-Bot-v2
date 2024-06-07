@@ -1,4 +1,5 @@
 Jak Skonfigurować?
+<br>
 A więc pierw trzeba wejść w plik config.json 
 i wypełnić podpunkty 
 
