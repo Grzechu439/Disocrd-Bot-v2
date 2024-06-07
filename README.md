@@ -21,7 +21,9 @@ i wypełnić podpunkty
      "chathelp": "no", -- Chat Help - możecie go wyłączyć lub włączyć yes/no
      <br>
      "activity": {
+      <br>
         "status": "", -- status  Playing,Listening,Watching,Competing,Streaming
+         <br>
         "text": "" -- text po statusie
     }
 }
