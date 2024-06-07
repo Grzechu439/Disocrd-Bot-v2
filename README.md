@@ -1,6 +1,8 @@
 Jak Skonfigurować?
 <br>
-A więc pierw trzeba wejść w plik config.json 
+1.A więc pierw trzeba pobrać node.js a nastepnie wejść w plik z botem i zedytować adres lokazlizajci pliku a nastepnie piszemy cmd. a potem npm i 
+<br>
+2. Wejść w plik config.json 
 i wypełnić podpunkty 
 
 {
