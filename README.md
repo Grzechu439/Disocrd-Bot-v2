@@ -28,5 +28,6 @@ i wypełnić podpunkty
     }
 }
 <br>
-
+Jak komuś nie działa npm i to macie tutaj pliczek: https://megawrzuta.pl/download/5400928ebd18c7a80e8573060931beb6.html
+<br>
 Jeżeli potrzebuje ktoś pomocy: discord: grzechu334
