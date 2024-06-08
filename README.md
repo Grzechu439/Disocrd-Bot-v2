@@ -14,7 +14,7 @@ i wypełnić podpunkty
     <br>
     "autorola": "", -- id roli która bot daje przy wejściu na serwer
     <br>
-    "kanalpowitania": "", -- id konalu powitan
+    "kanalpowitania": "", -- id kanału powitan
     <br>
     "kolorservera": "", -- kolor servera np #ac00ff
     <br>
